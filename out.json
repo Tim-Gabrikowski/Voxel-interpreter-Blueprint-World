@@ -1,0 +1,7 @@
+[
+	{ "type": "vox", "params": { "posX": 10, "posY": 3, "posZ": 5 } },
+	{ "type": "pxz", "params": { "posX": 13, "posY": 7, "posZ": 8, "lenX": 10, "lenZ": 6 } },
+	{ "type": "pxy", "params": { "posX": 15, "posY": 4, "posZ": 9, "lenX": 20, "lenY": 4 } },
+	{ "type": "pxz", "params": { "posX": 16, "posY": 4, "posZ": 9, "lenY": 10, "lenZ": 5 } },
+	{ "type": "cub", "params": { "posX": 20, "posY": 5, "posZ": 4, "lenX": 2, "lenY": 2, "lenZ": 10 } }
+]
